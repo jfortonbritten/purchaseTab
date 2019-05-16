@@ -1,0 +1,8 @@
+=dry=
+green items - $0.25
+yellow items - $0.50
+
+=fridge=
+blue items - 
+
+=freezer=
